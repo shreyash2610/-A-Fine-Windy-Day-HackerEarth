@@ -1,4 +1,7 @@
 # -A-Fine-Windy-Day-HackerEarth
+
+Leaderboard standing: 10 out of 2200 participants
+
 ## Problem  
 
 Moving from traditional energy plans powered by fossils fuels to unlimited renewable energy subscriptions allows for instant access to clean energy without heavy investment in infrastructure like solar panels, for example.  One clean energy source that has been gaining popularity around the world is wind turbines. Turbines are massive structures that are strategically placed in perpetually windy places to generate the most energy. Wind energy is generated when the power of the atmosphere’s airflow is harnessed to create electricity. Wind turbines do this by capturing the kinetic energy of the wind. Factors such as temperature, wind direction, turbine status, weather, blade length, etc. influence the amount of power generated. 
